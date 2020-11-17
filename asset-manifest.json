@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactSortingVis/static/css/main.b1f85735.chunk.css",
+    "main.js": "/ReactSortingVis/static/js/main.09c10b02.chunk.js",
+    "main.js.map": "/ReactSortingVis/static/js/main.09c10b02.chunk.js.map",
+    "runtime-main.js": "/ReactSortingVis/static/js/runtime-main.b43b8c7e.js",
+    "runtime-main.js.map": "/ReactSortingVis/static/js/runtime-main.b43b8c7e.js.map",
+    "static/js/2.05beb350.chunk.js": "/ReactSortingVis/static/js/2.05beb350.chunk.js",
+    "static/js/2.05beb350.chunk.js.map": "/ReactSortingVis/static/js/2.05beb350.chunk.js.map",
+    "index.html": "/ReactSortingVis/index.html",
+    "precache-manifest.bc49699a08bbfcad0ca48fc0a477333d.js": "/ReactSortingVis/precache-manifest.bc49699a08bbfcad0ca48fc0a477333d.js",
+    "service-worker.js": "/ReactSortingVis/service-worker.js",
+    "static/css/main.b1f85735.chunk.css.map": "/ReactSortingVis/static/css/main.b1f85735.chunk.css.map",
+    "static/js/2.05beb350.chunk.js.LICENSE.txt": "/ReactSortingVis/static/js/2.05beb350.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b43b8c7e.js",
+    "static/js/2.05beb350.chunk.js",
+    "static/css/main.b1f85735.chunk.css",
+    "static/js/main.09c10b02.chunk.js"
+  ]
+}
